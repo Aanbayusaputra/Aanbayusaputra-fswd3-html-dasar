@@ -11,7 +11,7 @@
 <body>
 
     <h2 class="Header" style="text-align: center;">
-        <p>Selamat Datang Di Website Pengenalan Desain Web Dasar</p>
+       <font color="blue"><marquee><p>Selamat Datang Di Web Saya</p></marquee> </font>
     </h2>
     <h3>
         <p>
@@ -26,20 +26,12 @@
     </h3>
 
     <ol>
-        <li>
-            <a href="Pages/Heading & Paragraf.html"> Heading & Paragraf</a>
-        </li>
-        <li>
-            <a href="/pages/formating.html"> Formating</a>
-        </li>
-        <li>
-            <a href="/pages/list.html"> List</a>
-
-        </li>
-        <li>
-            <a href="/pages/image.html"> Anchor dan image</a>
-        </li>
+        <li><a href="pages/Heading & Paragraf.html">Heading dan Paragraph</a></li>
+        <li><a href="pages/Formating.html">Text Formating</a></li>
+        <li><a href="pages/list.html">List</a></li>
+        <li><a href="pages/Anchor dan image.html">Anchor dan Image</a></li>
     </ol>
+   
 </body>
 
 </html>
